@@ -1,0 +1,8 @@
+@import './newPrimary.scss';
+
+$theme-colors: (
+  'primary': $newPrimary,
+  'secondary': $newSecondary
+);
+
+@import '~bootstrap/scss/bootstrap.scss';
