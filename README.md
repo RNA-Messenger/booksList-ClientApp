@@ -5,6 +5,15 @@ Was done with a modern React stack using hooks for data fetching. It also includ
 A minor change was made to the default theme to the primary and secondary colors.
 The api was made using Axios.
 
+## Installation
+
+1. Clone the git repo: https://github.com/RNA-Messenger/booksList-ClientApp.git or alternatively download the zip folder.
+
+2. Using a command line tool navigate to the project `cd` into `booksList-ClientApp`
+
+3. Install all dependencies. Go to the root of the project and type  `yarn`
+
+
 ## Available Scripts
 
 In the project directory, you can run:
